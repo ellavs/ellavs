@@ -1,4 +1,14 @@
-### Hi there 👋
+### About
+
+Профиль на Инфостарт (1С): https://infostart.ru/profile/192157/
+
+Личный технический блог: https://www.e-du.ru/
+
+Профиль на Github: https://github.com/ellavs
+
+Профиль на Kaggle: https://www.kaggle.com/ellavs
+
+Facebook: https://www.facebook.com/vs.ella.vs/
 
 <!--
 **ellavs/ellavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
