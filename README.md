@@ -1,14 +1,16 @@
 ### About
 
-Профиль на Инфостарт (1С): https://infostart.ru/profile/192157/
+LinkedIn: https://www.linkedin.com/in/ella-sushkova/
 
-Личный технический блог: https://www.e-du.ru/
+Blog (ru): https://www.e-du.ru/
 
-Профиль на Github: https://github.com/ellavs
+Github: https://github.com/ellavs
 
-Профиль на Kaggle: https://www.kaggle.com/ellavs
+Kaggle: https://www.kaggle.com/ellavs
 
 Facebook: https://www.facebook.com/vs.ella.vs/
+
+Профиль на Инфостарт (1С): https://infostart.ru/profile/192157/
 
 <!--
 **ellavs/ellavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://mermaid.ink/img/pako:eNpNjs9KA0EMxl8l5KRQFFEU5ibWm0plrnuJu9Ed6c6UafawlIIo3nyJvoIi-If6DJk36hQdMBDyfV9-gSywDg2jQYD70EfPQ-UhlziZMugqPeq7fsF2pGdd649-537TD_2EnfSUHrJ7zcg6vez-XgIc6MrASXGXFuz1hYHjEpyBbSnOYB9O7WTvisXAUdlNBmmDN3BYgjEJga0d-5r_xTjCjmNHrsmvL7ZphdJyxxWaLG9onlXll5nrZw0JnzdOQkRzS9M5j5B6CXbwNRqJPRdo7OguUvdHLTeTBWbH)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpNjs9KA0EMxl8l5KRQFFEU5ibWm0plrnuJu9Ed6c6UafawlIIo3nyJvoIi-If6DJk36hQdMBDyfV9-gSywDg2jQYD70EfPQ-UhlziZMugqPeq7fsF2pGdd649-537TD_2EnfSUHrJ7zcg6vez-XgIc6MrASXGXFuz1hYHjEpyBbSnOYB9O7WTvisXAUdlNBmmDN3BYgjEJga0d-5r_xTjCjmNHrsmvL7ZphdJyxxWaLG9onlXll5nrZw0JnzdOQkRzS9M5j5B6CXbwNRqJPRdo7OguUvdHLTeTBWbH)
