@@ -1,16 +1,14 @@
 ### About
 
-LinkedIn: https://www.linkedin.com/in/ella-sushkova/
-
-Blog (ru): https://www.e-du.ru/
-
 Github: https://github.com/ellavs
 
-Kaggle: https://www.kaggle.com/ellavs
+Telegram Blog (ru): https://t.me/it_blog_ella
 
-Facebook: https://www.facebook.com/vs.ella.vs/
+Blogger (ru): https://www.e-du.ru/
 
 Профиль на Инфостарт (1С): https://infostart.ru/profile/192157/
+
+Kaggle: https://www.kaggle.com/ellavs
 
 <!--
 **ellavs/ellavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
